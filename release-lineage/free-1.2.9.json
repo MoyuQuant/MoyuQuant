@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "product": "MoyuQuant Free",
+  "release_version": "1.2.9",
+  "release_channel": "stable",
+  "lineage_status": "PUBLIC_METADATA_ANCHOR_PROPRIETARY_SOURCE_NOT_PUBLISHED",
+  "controlled_source": {
+    "snapshot_name": "FREE-1.2.9-bootstrap-source-snapshot.zip",
+    "snapshot_bytes": 1447342,
+    "snapshot_sha256": "a0ec0e28d271c43c9695ac545bc684e2f5a82a5f07beab4d12ece149adb4ffe8",
+    "manifest_name": "FREE-1.2.9-bootstrap-source-manifest.tsv",
+    "manifest_bytes": 21356,
+    "manifest_sha256": "05c79fcdfc410cad64c5f1778cf41e39b5c3d09f9f81b094e2719b9cf58c5b42",
+    "manifest_entry_count": 209
+  },
+  "authoritative_asset": {
+    "name": "MoYuQuantFree_1.2.9.zip",
+    "bytes": 262271903,
+    "sha256": "18a22dcf01771e8e4df12deb746c01469049914e45f6482083f5a8e95bb04b9a"
+  },
+  "runtime_identity": {
+    "generation": "free-1.2.9-0b581d1c18633750",
+    "identity_sha256": "7cd195ae8641d9161226683c03a30549bdcec19efce2f43a4080bf4b0d2b21da",
+    "main_exe_sha256": "43f41ec64a060b95ec65b7139c8a14401e0e88a61503c4cfbce857a27d83c991",
+    "updater_exe_sha256": "0317226bf93c754911a145cab05c4984603fd860c76e4c133d59e8145a5c2422"
+  },
+  "accepted_review_chain": {
+    "r3_bootstrap_review_sha256": "a28771e48a56268c212f63a5ea15f1304c8bdcff7c35ebccc52280c5b9e14b8c",
+    "s226_build_review_sha256": "4bdb230a7f1b5eab5bdb70ee24663841d7396815abb7772b86636459637dbdde",
+    "s226_rehash_draft_prep_review_sha256": "d8ec2e75172cc84f8499fe6d75553de30bf2863e90faa507b6f35ae72b35ff8a"
+  },
+  "parent_github_main_commit": "bc0c9f9fc8a0eed3d0a94c960e384183e852cf1b",
+  "public_source_policy": "This public repository intentionally does not publish proprietary application source files. Release lineage is closed by the controlled source snapshot and manifest SHA256 identities recorded here and retained in the accepted private build evidence chain."
+}
